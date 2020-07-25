@@ -238,7 +238,10 @@ input,textarea{
         padding: 5px 10px;
     }
     .card h1{
-        
+        font-size: 20px;
+    }
+    .end{
+        float: none;
     }
     .card p{
         font-size:12px;
